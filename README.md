@@ -1,5 +1,4 @@
-# German-Indian Dual Clock
+# Translator-Based-Language-Tutor
 
 
-A Simple Dual Clock to display German and Indian Times
 ___
